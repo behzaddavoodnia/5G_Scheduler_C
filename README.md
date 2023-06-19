@@ -1,1 +1,1 @@
-# Huawei_5G_Scheduling_C
+# A 5G tasks scheduler in C
